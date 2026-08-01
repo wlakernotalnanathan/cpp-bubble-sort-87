@@ -2,3 +2,5 @@
 #include "sort.h"
 int main() {
     std::cout << "Sorting ready" << std::endl;
+    return 0;
+}
